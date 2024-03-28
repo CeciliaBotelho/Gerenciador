@@ -1,6 +1,5 @@
-# Desafio V360 - To-Do List 
+# - To-Do List 
 
-Este é o repositório do projeto do Desafio V360 - To-Do List. O objetivo deste desafio é criar um gerencidor de tarefas.
 
 ## Funcionalidades
 
